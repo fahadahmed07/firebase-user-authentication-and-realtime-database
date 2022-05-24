@@ -2,7 +2,7 @@
 Replace the firebase web hosting code with your hosting code from each html file and enjoy it. :)
    
 <!-- Firebase -->
-<script src="https://www.gstatic.com/firebasejs/5.5.8/firebase.js"></script>
+<!-- <script src="https://www.gstatic.com/firebasejs/5.5.8/firebase.js"></script>
 <script>
     // Initialize Firebase
     var config = {
@@ -15,4 +15,4 @@ Replace the firebase web hosting code with your hosting code from each html file
     };
     firebase.initializeApp(config);
     var database = firebase.database();
-</script>
+</script> -->
